@@ -1,3 +1,9 @@
+---
+title: Dứt tình
+author: Vũ Trọng Phụng
+language: vi
+---
+
 # Chương 1
 
 Ánh trời tà đã hết nhuộm vàng bãi bể. Bên trên dãy núi tím, vàng, xanh, xám mấy màu pha lộn nhau như nét bay miết dài của nhà họa sĩ, mây lồng thành hình vạn vật, cỏ cây. Giữa khoảng vô cùng, đó là một đàn voi... dần dần dồn nhau lên một cái cánh phượng, rồi, sau hết, lại bị gió dãi ra tản mạn thành chỗ này thì eo bể, vịnh, bán đảo, chỗ kia, cù lao, sông, núi - một bức địa đồ!
