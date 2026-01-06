@@ -62,7 +62,9 @@ Tiết Hằng để quạt lên mồm, ngáp và hỏi Yvonne:
 
 -- Thế thì vui lắm nhỉ? Cô rất thích được giao thiệp với nhiều người An Nam!
 
--- Thích vì...? - Yvonne ngẩn ngơ, lúng túng: - Thích vì...
+-- Thích vì...? - Yvonne ngẩn ngơ, lúng túng:
+
+--  Thích vì...
 
 Hằng cười tinh quái và nói luôn:
 
@@ -1698,7 +1700,9 @@ Chợt con sen hấp tấp đưa một lá danh thiếp vào. Anh hỏi:
 
 Hằng cau mặt đáp:
 
--- Huỳnh Đức! - Rồi bảo con sen: - Mày ra thưa với ông rằng độ nửa giờ nữa ông quay xe lại.
+-- Huỳnh Đức! - Rồi bảo con sen:
+
+--  Mày ra thưa với ông rằng độ nửa giờ nữa ông quay xe lại.
 
 -- Bẩm vâng.
 
@@ -2182,7 +2186,9 @@ Hai người đứng nhìn nhau một lúc lâu rồi Việt Anh cất tiếng:
 
 Đức trỏ ghế mà rằng:
 
--- Anh ngồi chơi. Chúng ta đã quen thuộc nhau, việc gì còn khách sáo thế? - Rồi chàng nhìn vào phía trong nhà, phán rằng: - Bồi đâu, dọn bàn đi mày.
+-- Anh ngồi chơi. Chúng ta đã quen thuộc nhau, việc gì còn khách sáo thế? - Rồi chàng nhìn vào phía trong nhà, phán rằng:
+
+--  Bồi đâu, dọn bàn đi mày.
 
 Chờ khi người bồi mang khay cốc tách ra ngoài phòng rồi, Việt Anh mới nói với Huỳnh Đức:
 
